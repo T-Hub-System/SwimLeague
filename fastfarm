@@ -1,0 +1,5 @@
+while task.wait() do
+game:GetService("ReplicatedStorage"):WaitForChild("Train"):WaitForChild("Remote"):WaitForChild("TrainAnimeHasEnded"):FireServer()
+end
+
+print("Script is Working Thanks for using T_Hub :D")
