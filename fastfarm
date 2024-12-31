@@ -1,6 +1,6 @@
+print("Thanks for using T_Hub :D")
+print("you can now try to farm 👍")
+
 while task.wait() do
 game:GetService("ReplicatedStorage"):WaitForChild("Train"):WaitForChild("Remote"):WaitForChild("TrainAnimeHasEnded"):FireServer()
 end
-
-print("Script is Working Thanks for using T_Hub :D")
-print("you can now try to farm 👍")
