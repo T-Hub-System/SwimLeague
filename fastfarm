@@ -3,3 +3,4 @@ game:GetService("ReplicatedStorage"):WaitForChild("Train"):WaitForChild("Remote"
 end
 
 print("Script is Working Thanks for using T_Hub :D")
+print("you can now try to farm 👍")
